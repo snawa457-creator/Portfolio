@@ -1,0 +1,26 @@
+body { margin: 0; background-color: #C9E4F2; color: #4A3028; }
+header, main {min-height: 100vh; padding: 40px; box-sizing: border-box;}
+
+p { color: #4A3028; }
+
+h1, h2, h3, h4, h5, h6 { color: #4A3028; }
+
+header { background-color: #C9E4F2; color: #4A3028; }
+
+footer { background-color: #E9DDD0; color: #4A3028; }
+
+a { color: #516F84; }
+
+a:visited { color: #735A71; }
+
+a:hover { color: #8EAFC3; }
+
+nav { background-color: #4A3028; color: #FFFDF8; }
+
+nav a, nav a:visited { color: #FFFDF8; }
+
+nav a:hover { color: #C9E4F2; }
+
+main { background-color: #FFFDF8; }
+
+img { border: 6px solid #8EAFC3; }
